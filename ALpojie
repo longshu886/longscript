@@ -1,0 +1,1 @@
+game:GetService("StarterGui"):SetCore("SendNotification", { 	Title = "我是废物云";	Text = "跑路了傻逼们";	Icon = "rbxassetid://14369638300"})
